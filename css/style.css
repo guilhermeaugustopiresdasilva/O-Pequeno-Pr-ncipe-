@@ -1,0 +1,83 @@
+.cornav{
+    background-color: goldenrod;
+}
+
+.cortexto{
+    color: white;
+}
+
+.conteudo{
+    background-color: goldenrod;
+    width: 95%;
+    box-shadow: -10px 10px rgb(123, 91, 11);
+    margin: auto;
+    padding-top: 1%;
+
+}
+
+.texto{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.corbody{
+    background-color: blanchedalmond;
+}
+
+.h1pt2{
+    text-align: center;
+    color: rgb(78, 57, 2);
+}
+
+.cordoacord{
+    background-color: goldenrod;
+}
+
+.cordoacordbt{
+    color: black;
+    background-color: goldenrod ;
+}
+
+.creditos{
+    width: 100%;
+    background-color: rgb(66, 47, 1);
+}
+
+.teste{
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: goldenrod;
+    align-self: center;
+    align-items: center;
+}
+.pequnopau{
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: goldenrod;
+    float: left;
+    
+    
+}
+
+.segimg{
+    padding-top: 2%;
+    padding-bottom: 6%;
+    background-color: goldenrod;
+    width: 100%;
+    margin: auto;
+  }
+
+
+
+.galimg {
+    width: 100%;
+    height: auto;
+    background-color: goldenrod;
+    margin: auto;
+  }
+
+  .texto1{
+    color: white;
+  }
+
